@@ -1,2 +1,11 @@
-# earthquake
 earthquake
+==========
+
+earthquake
+
+
+License
+-------
+
+MIT License
+
